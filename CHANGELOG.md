@@ -15,3 +15,4 @@ Alle wissenswerten Änderungen am Projekt werden hier aufgelistet.
 ###Changed
   - Keine nervigen Meldungen mehr wenn man etwas auf Plots die einem nicht gehören nicht benutzen darf.
   - EXP und Gold Belohnung für das töten von Schweinezombies, Hexen, Höhlenspinnen, Lohen und Schleimen hinzugefügt.
+  - Setzlinge die liegen gelassen werden pflanzen sich mit einer Chance von 1:2 ein.
