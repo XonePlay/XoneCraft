@@ -1,10 +1,15 @@
-## Official XoneCraft Changelog
+#XoneCraft Change Log
 
 
-###15.02.2017:
-```sh
-$ ADDED Lebens-, EXP- und Levelanzeige am oberen Bildschirmrand.
-$ ADDED Custom Waffen werden jetzt von Zombies gedroppt.
-$ ADDED Freundesystem
-$ ADDED Plotsystem im Char Menü
-```
+##Unreleased
+---
+###Added
+  - Lebens-, EXP- und Levelanzeige am oberen Bildschirmrand.
+  - Custom Waffen werden jetzt von Zombies gedroppt.
+  - Freundesystem
+  - Plotsystem im Char Menü
+
+##0.0.1 - 2017-02-15
+---
+###Added
+  - Händler: Arvon (verkauft Fische)
