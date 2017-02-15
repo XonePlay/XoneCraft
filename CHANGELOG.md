@@ -12,5 +12,5 @@ Alle wissenswerten Änderungen am Projekt werden hier aufgelistet.
 
 ##0.0.1 - 2017-02-15
 * * *
-###Added
-  - Händler: Arvon (verkauft Fische)
+###Changed
+  - Keine nervigen Meldungen mehr wenn man etwas nicht benutzen darf.
