@@ -13,4 +13,5 @@ Alle wissenswerten Änderungen am Projekt werden hier aufgelistet.
 ##0.0.1 - 2017-02-15
 * * *
 ###Changed
-  - Keine nervigen Meldungen mehr wenn man etwas nicht benutzen darf.
+  - Keine nervigen Meldungen mehr wenn man etwas auf Plots die einem nicht gehören nicht benutzen darf.
+  - EXP und Gold Belohnung für das töten von Schweinezombies, Hexen, Höhlenspinnen, Lohen und Schleimen hinzugefügt.
