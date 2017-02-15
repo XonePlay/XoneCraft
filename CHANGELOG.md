@@ -16,3 +16,4 @@ Alle wissenswerten Änderungen am Projekt werden hier aufgelistet.
   - Keine nervigen Meldungen mehr wenn man etwas auf Plots die einem nicht gehören nicht benutzen darf.
   - EXP und Gold Belohnung für das Töten von Schweinezombies, Hexen, Höhlenspinnen, Lohen und Schleimen hinzugefügt.
   - Setzlinge die liegen gelassen werden pflanzen sich mit einer Chance von 1:2 (50%) ein.
+  - Verzauberungen wie z.B. Schärfe verursachen auf Custom Waffen 5% mehr Schaden pro Verzauberungslevel.
